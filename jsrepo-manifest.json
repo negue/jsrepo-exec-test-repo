@@ -1,0 +1,24 @@
+[
+	{
+		"name": "scripts",
+		"blocks": [
+			{
+				"name": "cowsay",
+				"directory": "src/blocks/scripts",
+				"category": "scripts",
+				"tests": false,
+				"subdirectory": false,
+				"list": true,
+				"files": [
+					"cowsay.js"
+				],
+				"localDependencies": [],
+				"_imports_": {},
+				"dependencies": [
+					"cowsay@^1.6.0"
+				],
+				"devDependencies": []
+			}
+		]
+	}
+]
